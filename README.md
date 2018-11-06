@@ -13,6 +13,15 @@ string from standard input stream. First one is absolute location, that contains
 codes. Second one is the file name, that you want to save as. If no error occures, outputs
 (.tex, .pdf, .log, .aux, .toc) will be saved in 'tex output' under 'Documents' directory.
 # Program Behaviour
-Notice that your given source codes' location can contain both sub-folders and source
+* Notice that your given source codes' location can contain both sub-folders and source
 code files. Folder name will be used as section name like given screenshot.
-![](https://imgur.com/a/EkW9IT1) 
+
+image is not ready
+
+ If a source code is located at 4 layer(by layer I mean folder under folder) further than
+given location, that file will be ignored.
+ Files that do not have any of .cpp , .py , .c , .java extensions will be ignored.
+ Highly Recommanded not to use special characters in source file name and anywhere
+of code.
+ Ingore White Spaces in path name and file names.
+ Program may contain bugs.
