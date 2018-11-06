@@ -5,7 +5,7 @@ file, then compiles that file using a tex distribution and generates a cool look
 # Setup Environment
 * This program only works on linux distribution because it uses some system calls which are
 not available on windows.
-* Install texlie(a TeX distribution)  "sudo apt-get install texlive-full" [Instead, you can use this online tool https://www.sharelatex.com]
+* Install texlie(a TeX distribution)  "sudo apt-get install texlive-full" Instead, you can use this online tool https://www.sharelatex.com
 * Install g++ compiler "sudo apt-get install g++"
 # How to use
 Run the source code (Codebocks/Terminal both works ne). This program scans two input
@@ -15,4 +15,4 @@ codes. Second one is the file name, that you want to save as. If no error occure
 # Program Behaviour
 Notice that your given source codes' location can contain both sub-folders and source
 code files. Folder name will be used as section name like given screenshot.
-(!)[https://imgur.com/a/EkW9IT1] 
+![](https://imgur.com/a/EkW9IT1) 
