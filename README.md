@@ -18,10 +18,10 @@ code files. Folder name will be used as section name like given screenshot.
 
 image is not ready
 
- If a source code is located at 4 layer(by layer I mean folder under folder) further than
+* If a source code is located at 4 layer(by layer I mean folder under folder) further than
 given location, that file will be ignored.
- Files that do not have any of .cpp , .py , .c , .java extensions will be ignored.
- Highly Recommanded not to use special characters in source file name and anywhere
+* Files that do not have any of .cpp , .py , .c , .java extensions will be ignored.
+* Highly Recommanded not to use special characters in source file name and anywhere
 of code.
- Ingore White Spaces in path name and file names.
- Program may contain bugs.
+* Ingore White Spaces in path name and file names.
+* Program may contain bugs.
