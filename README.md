@@ -10,9 +10,9 @@ not available on windows.
 # How to use
 Run the source code (Codebocks/Terminal both works ne). This program scans two input
 string from standard input stream. First one is absolute location, that contains all your souce
-codes. Second one is the le name, that you want to save as. If no error occures, outputs
+codes. Second one is the file name, that you want to save as. If no error occures, outputs
 (.tex, .pdf, .log, .aux, .toc) will be saved in 'tex output' under 'Documents' directory.
 # Program Behaviour
 Notice that your given source codes' location can contain both sub-folders and source
 code files. Folder name will be used as section name like given screenshot.
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/EkW9IT1"><a href="//imgur.com/EkW9IT1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[!](https://imgur.com/a/EkW9IT1)
