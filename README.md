@@ -1,1 +1,1 @@
-#PLEASE READ LibraryMakerDoc.pdf
+PLEASE READ LibraryMakerDoc.pdf
